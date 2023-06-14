@@ -2,10 +2,10 @@
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 {
     "name": "Attachment Zipped Download",
-    "version": "14.0.1.0.2",
+    "version": "15.0.0.0.1",
     "category": "Tools",
     "website": "https://github.com/OCA/knowledge",
-    "author": "Tecnativa, Odoo Community Association (OCA)",
+    "author": "Process Controll, Tecnativa, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "depends": ["base"],
     "data": [
